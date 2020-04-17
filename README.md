@@ -1,2 +1,2 @@
 # Mood-Status-Ionic-Angular-App
-Simple use of ion-button to store selected user settings.
+Very simple use of ion-button to store selected user settings which alter the state of the home page.
